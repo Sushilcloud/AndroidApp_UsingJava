@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/editTextName"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Retailer Details"
+        android:textSize="20sp"
+        android:layout_marginTop="16dp"/>
+
+
+    <Spinner
+        android:id="@+id/spn_myTownName"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Town Name"
+        android:layout_marginTop="16dp"/>
+
+    <Spinner
+        android:id="@+id/spn_StockiestName"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Stockiest Name"
+        android:layout_marginTop="16dp"/>
+    <Spinner
+        android:id="@+id/spn_StockiestCode"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Stockiest Code"
+        android:layout_marginTop="16dp"/>
+    <EditText
+        android:id="@+id/editTextRetailerName"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Retailer Name"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextContactNumber"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="Contact Number"
+        android:layout_below="@id/editTextRetailerName"
+        android:layout_marginTop="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextPersonName"
+        android:inputType="textCapWords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Person Name"
+        android:layout_below="@id/editTextContactNumber"
+        android:layout_marginTop="16dp"/>
+
+
+    <TextView
+        android:id="@+id/locationTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextPersonName"
+        android:layout_marginTop="20sp"
+        android:text="Location: "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/address_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_below="@id/locationTextView"
+        android:layout_marginTop="20sp"
+        android:text="Address:" />
+
+    <Button
+        android:id="@+id/getLocationButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@id/address_text"
+        android:layout_marginTop="20sp"
+        android:text="Get Location" />
+
+    <Button
+        android:id="@+id/formSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/getLocationButton"
+        android:layout_marginTop="20sp"
+        android:text="Submit" />
+
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

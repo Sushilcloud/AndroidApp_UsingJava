@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="12dp"
+    android:background="#FAF4C3"
+    tools:context=".MainActivity">
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="200dp"
+       android:scaleType="fitXY"
+
+       android:src="@drawable/contacts_svgrepo_com"
+       android:contentDescription="@string/About">
+   </ImageView>
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/About_Us"
+       android:textSize="22sp"
+       android:textStyle="bold"
+       android:textAllCaps="true"/>
+
+   <EditText
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:ems="12"
+       android:inputType="text"
+       android:hint="Enter Your Name">
+      
+      
+
+   </EditText>
+
+   <androidx.appcompat.widget.AppCompatButton
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:backgroundTint="#8BC34A"
+       android:text="Contact Us"
+       android:textColor="@color/black"/>
+
+
+</LinearLayout>

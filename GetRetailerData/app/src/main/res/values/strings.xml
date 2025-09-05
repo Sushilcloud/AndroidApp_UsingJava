@@ -1,0 +1,334 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="townlist">
+        <item>Select Town</item>
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Allahabad</item>
+        <item>Bareilly</item>
+        <item>Bulandshahr</item>
+        <item>Dehradun</item>
+        <item>Ghaziabad</item>
+        <item>Gorakhpur</item>
+        <item>Greater Noida</item>
+        <item>Haldwani</item>
+        <item>Haldwani-cum-Kathgod</item>
+        <item>Hardwar</item>
+        <item>Jhansi</item>
+        <item>Kanpur</item>
+        <item>Kashipur</item>
+        <item>Khora</item>
+        <item>Lucknow</item>
+        <item>Mathura</item>
+        <item>Meerut</item>
+        <item>Modinagar</item>
+        <item>Moradabad</item>
+        <item>Muzaffarnagar</item>
+        <item>Naini</item>
+        <item>Nainital</item>
+        <item>Noida</item>
+        <item>Ramnagar</item>
+        <item>Rishikesh</item>
+        <item>Roorkee</item>
+        <item>Rudrapur</item>
+        <item>Saharanpur</item>
+        <item>Shahjahanpur</item>
+        <item>Varanasi</item>
+        <item>Vikasnagar</item>
+
+
+    </string-array>
+
+    <string-array name="stockiestname">
+        <item>Select Stockiest</item>
+        <item>DHRUV SALES</item>
+        <item>OJAS ENTERPRISES</item>
+        <item>BHARAT UNIVERSAL SUPPLIERS</item>
+        <item>JIYA ENTERPRISES</item>
+        <item>BAJRANG TRADERS</item>
+        <item>JAI MAA TRADERS</item>
+        <item>VESTAL SALES CORPORATION</item>
+        <item>VESTAL WATER TRADING CO</item>
+        <item>UMESH ENTERPRISES</item>
+        <item>JULKA ENTERPRISES</item>
+        <item>BABA ENTERPRISES</item>
+        <item>K M AGENCIES</item>
+        <item>KHURANA AGENCIES</item>
+        <item>ARUN TRADING CO.</item>
+        <item>KAILASH AGENCY</item>
+        <item>VAISHNO AGENCY</item>
+        <item>PAWAN COLD DRINKS</item>
+        <item>SHERI PUNJAB AGENCIES</item>
+        <item>MAHADEV ENTERPRISES</item>
+        <item>S.N. AGENCIES</item>
+        <item>M/S NARAIN AGENCIES</item>
+        <item>GUPTA  COMPANY</item>
+        <item>DURGA AGENCIES</item>
+        <item>TUSHAR TRADING CO.</item>
+        <item>RAJ TRADING COMPANY</item>
+        <item>VIJAY TRADING COMPANY</item>
+        <item>S.S. TRADING CO.</item>
+        <item>SHRI SIDDHI VINAYAK TRADING CO.</item>
+        <item>J M DISTRIBUTORS</item>
+        <item>I.C. SALES CORPORATION</item>
+        <item>SHRI BALAJI TRADERS</item>
+        <item>CARTCHASE</item>
+        <item>EASY INFOTECH SOLUTION</item>
+        <item>M/S SHAGUN TRADING COMPANY</item>
+        <item>PUSHANS ENTERPRISES</item>
+        <item>NANDI ENTERPRISES</item>
+        <item>CHANDRA KIRAN TRADER</item>
+        <item>SHIV SOAP STORE</item>
+        <item>AMICHAND AGARWAL MEDICAL HALL</item>
+        <item>MAA VAISHNO TRADERS</item>
+        <item>HAMDARD DAWAKHANA</item>
+        <item>RANGLANI BROTHERS</item>
+        <item>PRIYANSHI MERCHANDISE PRIVATE LTD</item>
+        <item>AJEET TRADING CO</item>
+        <item>VISHNOI TRADERS</item>
+        <item>KUNDRA AGENCY</item>
+        <item>GOSWAMY AGENCIES</item>
+        <item>SAGAR</item>
+        <item>SUMAN TRADERS</item>
+        <item>GAURI TRADING CORPORATION</item>
+        <item>GOPAL AGENCIES</item>
+        <item>SAHAIJ ENTERPRISES</item>
+        <item>A K TRADERS</item>
+        <item>M/S CHOUDHARY DEPARTMENTAL STORE</item>
+        <item>JAI GURU JI AGENCIES</item>
+        <item>M/S V CHETAN ASSOCIATES</item>
+        <item>GOKUL ENTERPRISES</item>
+        <item>BHAVIKA ENTERPRISES</item>
+        <item>SUNNY AGENCIES</item>
+        <item>SRI SAI ENTERPRISES</item>
+        <item>SHRI GEETA TRADERS</item>
+        <item>SULAXMI ENTERPRISES</item>
+        <item>R.S.ENTERPRISES</item>
+        <item>NEW MILK N ICE</item>
+        <item>BANSAL TRADING COMPANY</item>
+        <item>J.K. AGENCIES</item>
+        <item>MAA BHUVNESHWARI ENTERPRISE</item>
+        <item>NCR SALES</item>
+        <item>SUNDER TRADING CO</item>
+        <item>ANSHU AGENCIES</item>
+        <item>SHREE SHYAM SALES</item>
+        <item>CHAMANLAL JAGDISH KUMAR</item>
+        <item>F.M. AGENCIES</item>
+        <item>MADAN LAL KAPIL KUMAR</item>
+        <item>A K TRADERS</item>
+        <item>OM ENTERPRISES</item>
+        <item>DMR INFOSYSTEM P LTD</item>
+        <item>KHANDUJA SALES PRIVATE LIMITED</item>
+        <item>ARPIT TRADERS</item>
+        <item>D R K AGENCIES</item>
+        <item>SHREE SR AGENCIES PRIVATE LTD</item>
+        <item>KALA SHREE AGENCIES</item>
+        <item>MAA DURGA ENTERPRISES</item>
+        <item>CUSTOMER KING PRIVATE LIMITED</item>
+        <item>DHRUV SALES</item>
+        <item>CARE ENTERPRISES</item>
+        <item>BALAJI TRADERS</item>
+        <item>MSP ENTERPRISES</item>
+        <item>BALAJI TRADING CO.</item>
+        <item>KATYANI ENTERPRISES</item>
+        <item>RAJ ENTERPRISES</item>
+        <item>MEHTA AGENCIES</item>
+        <item>SHAKUNTALA AGENCIES</item>
+        <item>SHRADDHA ENTERPRISES</item>
+        <item>SHRI BALAJI TRADERS</item>
+        <item>G.G. ENTERPRISES</item>
+        <item>BHAVIKA TRADERS</item>
+        <item>BABA TRADERS</item>
+        <item>JAI GURU JI AGENCIES</item>
+        <item>GROVER BROTHERS</item>
+        <item>GURU ENTERPRISES</item>
+        <item>M/S ANVI ENTERPRISES</item>
+        <item>M/S ASHA ENTERPRISES</item>
+        <item>M/S S.D ENTERPRISES</item>
+        <item>SUMAN AGENCY</item>
+        <item>KUMAR ASSOCIATES</item>
+        <item>I.C. SALES CORPORATION</item>
+        <item>MAHADEV TRADING CO</item>
+        <item>G.S. AGENCY</item>
+        <item>VIVEK PHARMA DISTRIBUTORS</item>
+        <item>BHAGWATI TRADING COMPANY</item>
+        <item>DAILY FOOD</item>
+        <item>VIJAY TRADING COMPANY</item>
+        <item>AGRAWAL AGENCIES</item>
+        <item>SHIV SHAKTI TRADERS</item>
+        <item>365 DAYS RETAILS SOLUTION</item>
+        <item>HRIDHAAN ENTERPRISES</item>
+        <item>GOEL CONFECTIONERS</item>
+        <item>BHUMI ENTERPRISES</item>
+        <item>JAI LAXMI ENTERPRISES</item>
+        <item>KUNAL ENTERPSISES</item>
+        <item>MAA SAVITRI TRADERS</item>
+        <item>J  H TRADERS</item>
+        <item>JAI SHRI BALAJI STORE</item>
+        <item>VINAYAK ENTERPRISES</item>
+        <item>SUMAN TRADERS</item>
+        <item>AWYAY ENTERPRISES</item>
+        <item>LEO AGENCIES</item>
+        <item>SINGH ENTERPRISES</item>
+        <item>FRIENDS ENTERPRISES</item>
+        <item>VINOD MARKETING</item>
+        <item>KESHAV SALES</item>
+        <item>MAA VAISHNO ENTERPRISES</item>
+        <item>RAJ TRADERS</item>
+        <item>CHAUDHARY ENTERPRISES</item>
+        <item>GANGA ENTERPRISES</item>
+        <item>K D ENTERPRISES</item>
+        <item>SHRI VISHWANATH ENTERPRISES</item>
+        <item>SURAJ AGENCIES</item>
+        <item>AMBIKA TRADERS</item>
+        <item>GARG ENTERPRISES</item>
+    </string-array>
+
+    <string-array name="stockiestcode">
+        <item>Select Stockiest code</item>
+        <item>22007302</item>
+        <item>22022865</item>
+        <item>22020683</item>
+        <item>22006578</item>
+        <item>22017319</item>
+        <item>22020252</item>
+        <item>22021729</item>
+        <item>22022661</item>
+        <item>22014498</item>
+        <item>22008834</item>
+        <item>22020183</item>
+        <item>22022100</item>
+        <item>22012274</item>
+        <item>22018139</item>
+        <item>22008852</item>
+        <item>22016766</item>
+        <item>22013101</item>
+        <item>22003785</item>
+        <item>22014602</item>
+        <item>22019671</item>
+        <item>22019679</item>
+        <item>22006915</item>
+        <item>22014170</item>
+        <item>22014125</item>
+        <item>22016064</item>
+        <item>22022444</item>
+        <item>22015761</item>
+        <item>22022269</item>
+        <item>22000080</item>
+        <item>22017456</item>
+        <item>22021785</item>
+        <item>22021786</item>
+        <item>22022718</item>
+        <item>22022801</item>
+        <item>22020672</item>
+        <item>22022286</item>
+        <item>22000051</item>
+        <item>22000602</item>
+        <item>22000064</item>
+        <item>22020458</item>
+        <item>22013024</item>
+        <item>22019559</item>
+        <item>22017399</item>
+        <item>22019109</item>
+        <item>22021787</item>
+        <item>22013882</item>
+        <item>22015002</item>
+        <item>22017499</item>
+        <item>22019821</item>
+        <item>22013994</item>
+        <item>22015086</item>
+        <item>22015110</item>
+        <item>22019222</item>
+        <item>22022940</item>
+        <item>22023187</item>
+        <item>22023135</item>
+        <item>22023176</item>
+        <item>22023293</item>
+        <item>22023572</item>
+        <item>22023611</item>
+        <item>22023586</item>
+        <item>22015752</item>
+        <item>22012245</item>
+        <item>22006497</item>
+        <item>22019400</item>
+        <item>22006393</item>
+        <item>22014010</item>
+        <item>22017484</item>
+        <item>22018301</item>
+        <item>22019196</item>
+        <item>22014603</item>
+        <item>22000075</item>
+        <item>22010850</item>
+        <item>22000079</item>
+        <item>22015497</item>
+        <item>22009357</item>
+        <item>22018655</item>
+        <item>22018583</item>
+        <item>22013307</item>
+        <item>22015667</item>
+        <item>22018143</item>
+        <item>22015685</item>
+        <item>22019463</item>
+        <item>22017898</item>
+        <item>22017139</item>
+        <item>22017341</item>
+        <item>22013728</item>
+        <item>22018138</item>
+        <item>22015857</item>
+        <item>22012697</item>
+        <item>22020249</item>
+        <item>22024009</item>
+        <item>22008862</item>
+        <item>22020309</item>
+        <item>22021815</item>
+        <item>22021910</item>
+        <item>22023950</item>
+        <item>22021583</item>
+        <item>22021855</item>
+        <item>22022228</item>
+        <item>22021783</item>
+        <item>22022747</item>
+        <item>22022941</item>
+        <item>22022434</item>
+        <item>22012725</item>
+        <item>22006521</item>
+        <item>22017456-1</item>
+        <item>22002526</item>
+        <item>22024156</item>
+        <item>22011915</item>
+        <item>22024333</item>
+        <item>22024306</item>
+        <item>22024370</item>
+        <item>22004015</item>
+        <item>22024421</item>
+        <item>22024632</item>
+        <item>22024694</item>
+        <item>22024781</item>
+        <item>22024987</item>
+        <item>22025019</item>
+        <item>22025162</item>
+        <item>22025163</item>
+        <item>22025224</item>
+        <item>22025304</item>
+        <item>22025447</item>
+        <item>22025486</item>
+        <item>22025487</item>
+        <item>22025643</item>
+        <item>22025671</item>
+        <item>22025792</item>
+        <item>22025829</item>
+        <item>22025911</item>
+        <item>22025793</item>
+        <item>22025914</item>
+        <item>22025990</item>
+        <item>22026008</item>
+        <item>22025984</item>
+        <item>22026040</item>
+        <item>22010096</item>
+        <item>22026404</item>
+        <item>22026562</item>
+
+    </string-array>
+
+</resources>

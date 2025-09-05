@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ch01_BasicsAndroid</string>
+    <string name="About">About_Page</string>
+    <string name="editHint">Enter your name</string>
+    <string name="About_Us">Welcome At Website.com, we believe everyone deserves to have a website or online store. Our goal is to remove any technical or financial barriers that can prevent you from making your own</string>
+
+    <string name="hnt_wt">Enter Your Weight</string>
+    <string name="hnt_htf">Enter Your Height(in Fit)</string>
+    <string name="hnt_hti">Enter Your Height(in Inches)</string>
+
+</resources>
